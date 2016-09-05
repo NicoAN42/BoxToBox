@@ -7,11 +7,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="id.sch.smktelkom_mlg.tugas01.xirpl2019.boxtobox.MainActivity">
+    tools:context="id.sch.smktelkom_mlg.tugas01.xirpl2019.boxtobox.MainActivity"
+    android:background="#cccccc">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="BoxToBox"
-        android:id="@+id/btb" />
+    <ImageView
+        android:layout_width="@dimen/abc_dialog_fixed_width_major"
+        android:layout_height="@dimen/abc_dialog_fixed_width_major"
+        android:id="@+id/imageView"
+        android:src="@drawable/box2box"
+        android:layout_margin="@dimen/abc_action_bar_content_inset_material"
+        android:background="#c6c6c6" />
 </RelativeLayout>
