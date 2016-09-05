@@ -17,4 +17,50 @@
         android:src="@drawable/box2box"
         android:layout_margin="@dimen/abc_action_bar_content_inset_material"
         android:background="#c6c6c6" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/imageView">
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <EditText android:hint="Nama Pengirim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/namapengirim" />
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Kriteria Pengirim"
+            android:id="@+id/kriteriapengirim"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PERUSAHAAN"
+                android:id="@+id/perusahaan"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PERORANGAN"
+                android:id="@+id/radioButton2"
+                android:checked="false" />
+        </RadioGroup>
+
+    </LinearLayout>
+
 </RelativeLayout>
