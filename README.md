@@ -21,7 +21,7 @@ ScreenShot
 #
 
 #Download Aplikasi
-https://drive.google.com/open?id=0B5WubAFzSm7ZdllydEtnRWxQTzg
+https://drive.google.com/open?id=0B5WubAFzSm7Zb0h1RUc3UWxnU0E
 
 #BIODATA
 
