@@ -22,3 +22,17 @@ ScreenShot
 
 #Download Aplikasi
 https://drive.google.com/open?id=0B5WubAFzSm7ZdllydEtnRWxQTzg
+
+#BIODATA
+
+
+#Nama
+  : Nico Ardian Nugroho
+#Kelas
+  : XI RPL 2
+#No Urut
+  : 19
+#NIS
+  : 4789/1508/070
+#Nama Sekolah
+  : SMK TELKOM MALANG
