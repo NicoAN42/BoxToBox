@@ -27,7 +27,7 @@ https://drive.google.com/open?id=0B5WubAFzSm7ZeVA4bTFKeGktU1E
 ![ScreenShot](https://github.com/NicoAN42/BoxToBox/blob/box/Screenshot_2016-09-11-10-06-04-74.png "")
 
 #File
-#ttps://drive.google.com/open?id=0B5WubAFzSm7ZbE01Z0JSaExObkE
+#https://drive.google.com/open?id=0B5WubAFzSm7ZbE01Z0JSaExObkE
 
 #BIODATA
 
