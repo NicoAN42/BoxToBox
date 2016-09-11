@@ -17,11 +17,11 @@ Membuat Spinner ,Radio Button , Edit Text "Nama Pengirim" & "Kriteria Pengirim"
 untuk spinner akan di pindah ke konsep C
 
 ScreenShot
-#https://drive.google.com/open?id=0B5WubAFzSm7ZZVRJSmFHd3BMaFU
+#https://drive.google.com/open?id=0B5WubAFzSm7ZellfY1lEbXlfdGM
 #
 
 #Download Aplikasi
-https://drive.google.com/open?id=0B5WubAFzSm7Zb0h1RUc3UWxnU0E
+https://drive.google.com/open?id=0B5WubAFzSm7ZeVA4bTFKeGktU1E
 
 #ScreenShot
 ![ScreenShot](https://raw.githubusercontent.com/NicoAN42/BoxToBox/box/Screenshot_2016-09-06-00-39-22-76.png "")
